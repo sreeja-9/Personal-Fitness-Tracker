@@ -33,11 +33,12 @@
 
 ## 📷 Screenshots  
 
-### 🔹 Example1
-![Example1](Output/Output1.png)  
+### 🔹 Example1  
+<img src="Output/Output1.png" width="500">  
 
-### 🔹 Example2
-![Example2](Output/Output2.png)
+### 🔹 Example2  
+<img src="Output/Output2.png" width="500">  
+
 
 📥 Installation Guide
 🔹 Step 1: Clone the Repository
